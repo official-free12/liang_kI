@@ -1,0 +1,6 @@
+# 量化机器人/量化套利机器人/可运营，持续升级更新
+
+本公司位于湖北省宜昌市，实体公司开发，并非网络模板。此系统是本公司重头到位，一个代码一个代码敲出来的！也在做自运营。目前有300+客户在使用。运行正常。不能说完全没有bug，但是只要发现bug都能尽快修复！<br>目前只支持BN，功能持续更新中。。。。<br>系统分2种出售模式 两个模式收费不同。<br>1持续更新 和我们运营版本同步更新。（包含bug修复） 承诺每年不低于3次大更新（功能升级） 。如有其他需求按二开计费。<br>2目前版本 目前版本买断。到成交日起的版本。停止更新除bug修复外。所有改动按二开计费。<br>———————————————————————<br>功能简介<br>1充值功能 包含划转 提现<br>2分销 JICHAZHIFENXIAO<br>3交易流水 账单<br>4api绑定<br>5前端自定义策略<br>6交易方式市面多种交易方式 都能支持 单向 双向 多空联动 顺势 逆势 网格止盈 整体止盈 等等<br>7支持okx’功能在完善中。。。<br>8各种短信提醒用户 和运营者<br>9后台支持采集交易s 往期数据 测试策略<br>10 功能持续更新。<br>预告更新<br>指标趋势 做单止盈止损 <br>界面简介大方，没有些花里胡哨的东西，让运营者能赚钱，让客户能赚钱。这样才是一个好的循环！那些个月化30 50 甚至80的策略 我们做不出来！我们不是巴菲特！也没有哪个策略能满足所有行情。<br>如果你是想真正运营好量化项目，可以联系我们。和我们一起成长，和我们一起赚钱。正规公司，可签合同，可开发票。也欢迎大家来公司考察参观。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/ffgdY" style="color: red;">https://mega-file.org/ffgdY</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
